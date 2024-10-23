@@ -1,4 +1,4 @@
-DECLARE @CustomerGUID uniqueidentifier = ''
+DECLARE @CustomerGUID uniqueidentifier = '29AD4FFD-69BE-4B61-99E0-D7BB1C9429B3'
 
 DECLARE @CountOfHubWorldMaps int = 0
 
